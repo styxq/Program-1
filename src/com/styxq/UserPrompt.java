@@ -1,3 +1,5 @@
+package com.styxq;
+
 public class UserPrompt {
     private int a;
     private int b;
